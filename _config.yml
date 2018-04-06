@@ -1,2 +1,3 @@
 #remote_theme: allejo/jekyll-docs-theme
-remote_theme: arakelian/jekyll-theme-gerbera
+#remote_theme: arakelian/jekyll-theme-gerbera
+remote_theme: LeakyAbstractions/pretty-docs
