@@ -7,14 +7,7 @@ icon:
   name: fa-paper-plane
 color: green
 sections:
-  - /start/download
-  - /start/installation
-  - /start/code
-  - /start/callouts
-  - /start/tables
-  - /start/buttons
-  - /start/video
-  - /start/icons
+  - README
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
