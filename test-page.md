@@ -28,3 +28,4 @@ promo:
 
       {: .author}
       [Xiaoying Riley](http://themes.3rdwavemedia.com)
+---
